@@ -1,0 +1,2 @@
+gcc -o pregunta_15 pregunta_15.c
+./pregunta_15
